@@ -1,16 +1,16 @@
 # Caps-cGAN:Capsule Conditional Generative Adversarial Network for Speckle Noise Reduction in Retinal OCT Images
 Project directory structure
-Data is stored in two folders under Datasets:
--/OCT_Super
-------/train/
---------/img
-----------f1
-----------f2
-----------f3
-------/mask
-----------f1
-----------f2
-----------f3
+Data is stored in two folders under Datasets:  
+-/OCT_Super  
+------/train/  
+--------/img  
+----------f1  
+----------f2  
+----------f3  
+------/mask  
+----------f1  
+----------f2  
+----------f3  
 
 --/valid/
 --------/img
